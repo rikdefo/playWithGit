@@ -7,8 +7,8 @@
 7. git diff / diff [file-name] - посмотреть изменения в файлах
 8. git reset --hard - откатить изменения
 9. git branch - посмотреть ветки
-10.git branch [branch-name] - создание ветки с именем
-11.git checkout [branch-name] - переключение на выбранную ветку
-12.git pull [rep-link] [branch-name] - подтянуть изменения с гита
-13.git branch -d - удалить ветку локально
+10. git branch [branch-name] - создание ветки с именем
+11. git checkout [branch-name] - переключение на выбранную ветку
+12. git pull [rep-link] [branch-name] - подтянуть изменения с гита
+13. git branch -d - удалить ветку локально
 14.
